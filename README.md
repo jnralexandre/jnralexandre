@@ -10,6 +10,6 @@
      <li>CSS3;</li>
    </ul>
 - Sou estudante de programação e estou em busca de uma oportunidade para iniciar minha carreira na área da programação e melhorar tecnicamente.
-- Você pode me contatar pelo email: aoaj.alexandre@gmail.com
+- Você pode me contatar pelo email: alexandreoliveirajnr@gmail.com
 - Meus pronomes: ele/dele
 
