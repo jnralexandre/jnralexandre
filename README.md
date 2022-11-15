@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Alexandre de Oliveira Araújo Júnior
+# Olá, meu nome é Alexandre de Oliveira Araújo Júnior
 - Eu estou trabalhando como Suporte de TI.
 - Estou estudando:
     <ul>
