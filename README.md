@@ -12,7 +12,7 @@
      <li>CSS3;</li>
      <img align="center" alt="imagemCSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </ul>
-- Sou estudante de programação e estou em busca de uma oportunidade para iniciar minha carreira na área da programação e melhorar tecnicamente.
-- Você pode me contatar pelo email: alexandreoliveirajnr@gmail.com
+- Sou estudante de programação e estou em busca de uma oportunidade para iniciar minha carreira na área como desenvolvedor e melhorar tecnicamente.
+- Você pode me contatar pelo email: alexandre.o.a.jr@gmail.com
 - Meus pronomes: ele/dele
 
